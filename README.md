@@ -1,6 +1,6 @@
 # Enterprise Core/Distribution Network Simulation & SAN Infrastructure
 
-Built a scaled-down, enterprise-grade lab in Cisco Packet Tracer to simulate a redundant Core/Distribution architecture. The goal of this project was to model a realistic production environment—focusing on Layer 3 high availability, strict VLAN segmentation, centralized Active Directory DHCP relaying, and dedicated SAN storage networking.
+Built a scaled-down, enterprise-grade lab in Cisco Packet Tracer to simulate a redundant Core/Distribution architecture. The goal of this project was to model a realistic production environment—focusing on Layer 3 high availability, strict VLAN segmentation, centralized Active Directory DHCP relaying(Not actual AD servers simulated), and dedicated SAN storage networking.
 
 The topology supports around 200–250 simulated end devices, balancing real-world network design with Packet Tracer's performance limits.
 
